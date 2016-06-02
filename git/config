@@ -3,6 +3,10 @@
 	filemode = true
 	bare = false
 	logallrefupdates = true
+<<<<<<< HEAD
 	worktree = /Users/petersouter/projects/courseware-virtual/managing_puppet_code/_files/users
+=======
+	worktree = /Users/petersouter/projects/courseware-virtual/managing_puppet_code/_files/example
+>>>>>>> 63b55a5f2954728a37fd3390865a9c5603b3bde6
 	ignorecase = true
 	precomposeunicode = true
